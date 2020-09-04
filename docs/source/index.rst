@@ -6,6 +6,10 @@
 Welcome to SagarBS1's documentation! Hello Sagar
 =================================================
 
+Welcome to release 1.0.1
+========================
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
