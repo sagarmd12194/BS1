@@ -6,11 +6,10 @@
 Welcome to SagarBS1's documentation! Hello Sagar
 =================================================
 
-Welcome to release 1.0.1
+Welcome to release 2.0.0
 ========================
 
-After release 1.0.1 Chanages Done
-===================================
+
 
 
 .. toctree::
